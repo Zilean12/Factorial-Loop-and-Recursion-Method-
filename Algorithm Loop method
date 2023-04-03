@@ -1,0 +1,7 @@
+Algorithm ( factorial using a loop method )
+
+function factorial(n)
+    result = 1
+    for i from 1 to n
+        result = result * i
+    return result
